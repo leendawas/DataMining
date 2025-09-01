@@ -1,0 +1,13 @@
+Data Mining in Action – Amazon
+
+The problem: shopping at Amazon, which world’s largest online shopping website, can be overwhelming.
+How data mining is implemented, it uses the analysis of the customers' browsing history and their purchase history
+what previous people with similar histories and interests purchased.
+and based on these patterns, it provides personalized recommendations.
+It item-to-item Collaborative Filtering method, instead of comparing users to users,
+Amazon compares items to items..
+
+Its impact: it makes shopping easier and faster for the customer.
+It also increases Amazon's sales and customer satisfaction.
+Another source highlights that Amazon's recommendation system has been estimated to generate up to 35% of its sales,
+and further reports that over 75% of customers rely on these recommendations when making purchasing decisions.
